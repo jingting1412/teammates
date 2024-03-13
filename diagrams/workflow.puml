@@ -1,5 +1,5 @@
 @startuml
-!include style.puml
+!include diagrams/style.puml
 
 box Local UI_COLOR_T1
 participant LocalRepo UI_COLOR
