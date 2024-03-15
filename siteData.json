@@ -3,6 +3,7 @@
   "pages": [
     {
       "src": "CONTRIBUTING.md",
+      "title": "",
       "headings": {
         "contributing-to-teammates": "Contributing to TEAMMATES",
         "getting-started": "Getting started",
@@ -20,6 +21,7 @@
     },
     {
       "src": "SUPPORT.md",
+      "title": "",
       "headings": {
         "teammates-support": "TEAMMATES Support"
       },
